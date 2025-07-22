@@ -4,7 +4,6 @@ Change the default git location in the properties of 'Git Bash'
 	c. Paste the code path under start in text box
 
 Steps to commit and push
-
 1. Dir
 2. git add targetfilename.extension (example: Readme.txt)
 3. git commit -m "Comment"
