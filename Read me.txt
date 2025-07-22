@@ -1,1 +1,11 @@
+Change the default git location in the properties of 'Git Bash'
+	a. Right click on Git Bash icon and go to properties
+	b. Shortcut tab --> Remove '--cd..Home' from Target text 	box
+	c. Paste the code path under start in text box
+
 Steps to commit and push
+
+1. Dir
+2. git add targetfilename.extension (example: Readme.txt)
+3. git commit -m "Comment"
+4. git push
